@@ -1,10 +1,10 @@
 Body {  
-    font-family: Calibri, Helvetica, sans-serif;  
+    font-style: normal;  
      
   }  
   button {     
          width: 20%;  
-          color: rgb(19, 18, 18);   
+          color: rgb(235, 27, 27);   
           padding: 15px;   
           margin: 5px 0px;   
           border: none;   
@@ -20,10 +20,7 @@ Body {
           display: inline-block;   
           border: 2px solid rgb(96, 231, 96);   
           box-sizing: border-box;   
-      }  
-   button:hover {   
-          opacity: 0;   
-      }   
+      }    
     .cancelbtn {   
           width: auto;   
           padding: 10px 18px;  
