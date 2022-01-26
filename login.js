@@ -1,4 +1,6 @@
-
+//var name = [];
+//var email = [];
+//var password = [] ;
 
 function submit() {
     var email = document.getElementById("email").value;
