@@ -34,4 +34,8 @@ Body {
    .container {   
           padding: 10px;   
           background-color: rgb(138, 130, 136);  
-      }   
+      } 
+      
+      nav{
+          background-color: blue;
+      }
